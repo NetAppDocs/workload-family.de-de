@@ -143,4 +143,6 @@
   <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMware-Workloads</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">Optimieren Sie Migrationen aus lokalen vSphere-Umgebungen zu VMware Cloud on AWS und implementieren Sie angepasste FSX für ONTAP-Filesysteme als externe Datastores.</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Die gesamte Dokumentation zu Workload Factory</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Versionshinweise</block>
+  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">Informieren Sie sich über die Neuerungen in Workload Factory.</block>
 </blocks>
