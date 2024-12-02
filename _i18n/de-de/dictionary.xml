@@ -138,4 +138,6 @@
   <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">Vollständige Dokumentation der Arbeitslast</block>
   <block id="428b0b39be2352757edeb5f9f12a7bdd" category="inline-link">BlueXP -Workload ist werkseitig eingestellt</block>
   <block id="7cf449620aa459bc5c449db69b07e507" category="paragraph"><block ref="7cf449620aa459bc5c449db69b07e507" category="inline-link-rx"></block></block>
+  <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">Bauherren</block>
+  <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">Vereinfachte Nutzung und Zugriff von Softwareversionen durch sofortige Clone-Integration in Versionskontrollsysteme und CI/CD-Flows, was Zeit und Ressourcen spart.</block>
 </blocks>

@@ -33,17 +33,18 @@ product-family:
     url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
     summary: Informieren Sie sich über alle Neuigkeiten in der Workload-Farm.
     tags: all
-  - title: Storage
-    icon: "./media/icon-storage.png"
-    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
-    summary: Implementieren und managen Sie FSX für ONTAP-Filesysteme, damit Sie alle
-      Funktionen von ONTAP als nativen, von AWS gemanagten Service nutzen können.
-    tags: all,storage
   - title: API
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
     summary: Verwalten Sie programmgesteuert Ihre Arbeitslastwerkressourcen.
     tags: all,api
+  - title: Bauherren
+    icon: "./media/icon-builders.png"
+    url: https://docs.netapp.com/us-en/workload-builders/index.html
+    summary: Vereinfachte Nutzung und Zugriff von Softwareversionen durch sofortige
+      Clone-Integration in Versionskontrollsysteme und CI/CD-Flows, was Zeit und Ressourcen
+      spart.
+    tags: all,workload
   - title: Datenbanken
     icon: "./media/icon-database.png"
     url: https://docs.netapp.com/us-en/workload-databases/index.html
@@ -56,6 +57,12 @@ product-family:
     summary: Integrieren Sie Daten aus Ihren FSX for ONTAP-Filesystemen in Ihre MLOps-Plattformen
       und GenAI-Basismodelle, um funktionale Chatbots zu erstellen.
     tags: all,workload
+  - title: Storage
+    icon: "./media/icon-storage.png"
+    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    summary: Implementieren und managen Sie FSX für ONTAP-Filesysteme, damit Sie alle
+      Funktionen von ONTAP als nativen, von AWS gemanagten Service nutzen können.
+    tags: all,storage
   - title: VMware
     icon: "./media/icon-vmware.png"
     url: https://docs.netapp.com/us-en/workload-vmware/index.html
