@@ -1,14 +1,14 @@
 ---
 product-family:
-  title: Dokumentation der Werkseinstellungen für BlueXP -Workloads
-  lead: Die BlueXP  Workload Factory ist eine leistungsstarke Lifecycle-Managementplattform,
-    mit der Sie Ihre Workloads mit Amazon FSX für NetApp ONTAP optimieren können.
-    Durchsuchen Sie die Dokumentation nach Workload-Typ oder verwenden Sie die Suchleiste,
-    um Inhalte in den werkseitigen Dokumenten für Workloads zu finden.
-  summary: Die BlueXP  Workload Factory ist eine leistungsstarke Lifecycle-Managementplattform,
-    mit der Sie Ihre Workloads mit Amazon FSX für NetApp ONTAP optimieren können.
-    Durchsuchen Sie die Dokumentation nach Workload-Typ oder verwenden Sie die Suchleiste,
-    um Inhalte in den werkseitigen Dokumenten für Workloads zu finden.
+  title: NetApp Workload Factory-Dokumentation
+  lead: NetApp Workload Factory ist eine leistungsstarke Lifecycle-Management-Plattform,
+    die Ihnen dabei hilft, Ihre Workloads mit Amazon FSx for NetApp ONTAP zu optimieren.  Durchsuchen
+    Sie die Dokumentation nach Workload-Typ oder verwenden Sie die Suchleiste, um
+    Inhalte überall in den Workload Factory-Dokumenten zu finden.
+  summary: NetApp Workload Factory ist eine leistungsstarke Lifecycle-Management-Plattform,
+    die Ihnen dabei hilft, Ihre Workloads mit Amazon FSx for NetApp ONTAP zu optimieren.  Durchsuchen
+    Sie die Dokumentation nach Workload-Typ oder verwenden Sie die Suchleiste, um
+    Inhalte überall in den Workload Factory-Dokumenten zu finden.
   sidebarlinks:
   - title: Alle
     tags: all
@@ -25,18 +25,18 @@ product-family:
   - title: Einrichtung und Administration
     icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
-    summary: Erfahren Sie, wie Sie mit der Workload Factory beginnen, Anmeldeinformationen
-      verwalten und Codebox für die Automatisierung verwenden.
+    summary: Erfahren Sie, wie Sie Workload Factory verwenden, Anmeldeinformationen
+      verwalten und Codebox zur Automatisierung verwenden.
     tags: all,admin
   - title: Versionshinweise
     icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
-    summary: Informieren Sie sich über alle Neuigkeiten in der Workload-Farm.
+    summary: Erfahren Sie, was es Neues bei Workload Factory gibt.
     tags: all
   - title: API
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
-    summary: Verwalten Sie programmgesteuert Ihre Arbeitslastwerkressourcen.
+    summary: Verwalten Sie Ihre Workload Factory-Ressourcen programmgesteuert.
     tags: all,api
   - title: Bauherren
     icon: "./media/icon-builders.png"
