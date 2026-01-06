@@ -105,8 +105,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Versionshinweise</block>
   <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">Datenbanken</block>
   <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
-  <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">Bauherren</block>
-  <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">Vereinfachte Nutzung und Zugriff von Softwareversionen durch sofortige Clone-Integration in Versionskontrollsysteme und CI/CD-Flows, was Zeit und Ressourcen spart.</block>
   <block id="cfd98e00a6e308c04ab9f76a854b6989" category="doc">Verfolgen und überwachen Sie Vorgänge</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">Über diese Aufgabe</block>
   <block id="4a60367cb1382179b571e891381eaf8d" category="paragraph">In Tracker sind mehrere Aktionen verfügbar. Sie können Jobs nach Zeitrahmen (letzte 24 Stunden, 7 Tage, 14 Tage oder 30 Tage), Workload, Status und Benutzer filtern, Jobs mithilfe der Suchfunktion suchen und die Jobtabelle als CSV-Datei herunterladen. Sie können Tracker jederzeit aktualisieren und einen fehlgeschlagenen Vorgang schnell wiederholen oder Parameter für einen fehlgeschlagenen Vorgang bearbeiten und den Vorgang erneut versuchen.</block>
@@ -186,4 +184,6 @@
   <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">Erfahren Sie, was es Neues bei Workload Factory gibt.</block>
   <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Verwalten Sie Ihre Workload Factory-Ressourcen programmgesteuert.</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Die gesamte Workload Factory-Dokumentation</block>
+  <block id="81f1b99be9951f3725aa3dd62766099e" category="sidebar">EDA</block>
+  <block id="d9c8047218c7f33bcf7a55b46924a47b" category="sidebar">Optimieren Sie FSx für ONTAP über mehrere Dateisysteme hinweg, um die Leistung zu steigern und die Betriebskosten durch automatisiertes Speicherparametermanagement zu senken.</block>
 </blocks>
