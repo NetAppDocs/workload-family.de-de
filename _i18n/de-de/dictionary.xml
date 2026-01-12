@@ -185,5 +185,5 @@
   <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Verwalten Sie Ihre Workload Factory-Ressourcen programmgesteuert.</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Die gesamte Workload Factory-Dokumentation</block>
   <block id="81f1b99be9951f3725aa3dd62766099e" category="sidebar">EDA</block>
-  <block id="d9c8047218c7f33bcf7a55b46924a47b" category="sidebar">Optimieren Sie FSx für ONTAP über mehrere Dateisysteme hinweg, um die Leistung zu steigern und die Betriebskosten durch automatisiertes Speicherparametermanagement zu senken.</block>
+  <block id="d783a4bda63a5d10b5fdfe91d9c38e49" category="sidebar">FSx für ONTAP Performance und -Kosten über mehrere Dateisysteme hinweg mit automatisierter Speicherverwaltung optimieren.</block>
 </blocks>
